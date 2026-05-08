@@ -1,0 +1,25 @@
+# Секретные файлы
+.env
+*.key
+*.pem
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# База данных Chroma
+chroma_db/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Логи
+*.log
